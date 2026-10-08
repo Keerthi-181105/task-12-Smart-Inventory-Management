@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2020",
+    "module": "commonjs",
+    "outDir": "dist",
+    "noEmitOnError": true
+  },
+  "files": ["smart-inventory-system.ts"]
+}
